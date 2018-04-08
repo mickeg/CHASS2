@@ -1,0 +1,62 @@
+#map {
+    height: 60%;
+  }
+
+  #console{
+    padding: 10px;
+  }
+
+  
+  /* Optional: Makes the sample page fill the window. */
+
+  html,body {
+    background: #F7F7F7;
+    font-size: 1rem;
+}  
+
+#map{
+    width:100%;
+    height:500px;
+}
+
+#observations{
+    width: 200px;
+    height: 18px;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: coral;
+    cursor: pointer;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Comfortaa', cursive;
+}
+
+.menu {
+    margin-bottom: 1rem;
+}
+
+.menu-item  {
+    margin-right: 2rem;
+    color: blue;
+    cursor: pointer;
+}
+
+.container {
+   margin: 3rem auto; 
+}
+
+.section {
+    margin-bottom: 2rem;
+}
+
+.search-result-img {
+    margin-right: 1rem;
+}
+
+.tag{
+    padding: 5px;
+    margin: 1px;
+    float: left;
+}
